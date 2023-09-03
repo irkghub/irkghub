@@ -11,7 +11,7 @@
   
   1) <a href ="https://irkghub.github.io/BackgroundGenerator/">Dynamic Background Generator</a> ( and hosted in on <a href="https://dev13.d1iyu223dy4d6k.amplifyapp.com/">AWS Amplify</a> ), and 
   2) <a href ="https://irkghub.github.io/thingsToDo">TO DO App</a> appling Javascript.
-- 🌱 I’m currently learning Pytorch while simultaneously learning and applying AWS Cloud Concepts, Python and Linux for Linux System Administration.
+- 🌱 I’m currently learning about information security while simultaneously learning and applying AWS Cloud Concepts, Python and Linux for Linux System Administration.
 - 🤔 I’m looking for help in python and bash shell scripting.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/link-to-rupak/">LinkedIn</a> and <a href ="https://twitter.com/RupakTweetsHere">Twitter</a>
 - 😄 Pronouns: He
