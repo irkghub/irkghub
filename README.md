@@ -5,7 +5,8 @@
 - 🔭 I’m currently working on a snake game program in python.
 - 🌱 I 've hosted my demo porfolio site through:--
 - 1) <a href ="https://rupakbhandari.com.np/">Github pages</a>
-  You can also scan the QR to browse my portfolio website:-
+<br />
+  Also, you can scan the QR to browse the website:-
   <img src="Portfolio_QR.png" height="200px" width="200px"/>
   
   
