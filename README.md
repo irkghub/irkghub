@@ -6,7 +6,7 @@
 - 🌱 I 've hosted my demo porfolio site through:--
 - 1) <a href ="https://rupakbhandari.com.np/">Github pages</a>
   You can also scan the QR to browse my portfolio website:-
-  <img src="https://rupakbhandari.com.np/" />
+  <img src="Portfolio_QR.png" />
   
   
   And created
