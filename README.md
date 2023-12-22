@@ -16,7 +16,9 @@
   2) <a href ="https://irkghub.github.io/thingsToDo">TO DO App</a> applying Javascript.
 - 🌱 I’m currently learning DevOps,Python and Linux for Linux System Administration.
 - 🤔 I’m looking for help in python and bash shell scripting.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/link-to-rupak/">LinkedIn</a> and <a href ="https://twitter.com/RupakTweetsHere">Twitter</a>
+- 📫 How to reach me: [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/link-to-rupak/)
+  and [![Twitter](https://img.icons8.com/ios-filled/50/x.png)](https://twitter.com/your_twitter_handle)
+
 - 😄 Pronouns: He
 - ⚡ Fun fact: Trying to learn French.
 
