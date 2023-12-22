@@ -20,4 +20,4 @@
 ## - ⚡ Fun fact: Trying to learn French.
 
 # Find me at:
- [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/link-to-rupak/) [![Twitter](https://img.icons8.com/ios-filled/40/x.png)](https://twitter.com/RupakTweetsHere) [![Medium](https://img.icons8.com/sf-black-filled/64/medium-logo.png)](https://medium.com/@rupakbhandari)
+ [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/link-to-rupak/) [![Twitter](https://img.icons8.com/ios-filled/40/x.png)](https://twitter.com/RupakTweetsHere) [![Medium](https://img.icons8.com/sf-black-filled/50/medium-logo.png)](https://medium.com/@rupakbhandari)
