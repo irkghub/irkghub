@@ -1,12 +1,12 @@
-### Hi there 👋 
+# Hi there 👋 
 
-- ⚡I'm a <a href="https://www.credly.com/badges/e464173e-653d-4ab1-a62d-7d788874a5c1/public_url">AWS Certified Cloud 
+## - ⚡I'm a <a href="https://www.credly.com/badges/e464173e-653d-4ab1-a62d-7d788874a5c1/public_url">AWS Certified Cloud 
      Practitioner</a>
-- 🔭 I’ve created a snake game program in python.
-- 🌱 I 've hosted my demo porfolio site through:--
-- 1) <a href ="https://rupakbhandari.com.np/">Github pages</a>
+## - 🔭 I’ve created a snake game program in python.
+## - 🌱 I 've hosted my demo porfolio site through:--
+## - 1) <a href ="https://rupakbhandari.com.np/">Github pages</a>
 <br />
-  Also, you can scan the QR to browse the website:-
+ Also, you can scan the QR to browse the website:-
   <img src="frame.png" height="200px" width="200px"/>
   
   
