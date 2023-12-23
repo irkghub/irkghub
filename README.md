@@ -18,7 +18,10 @@
  <h2 align="center">Things I tried hands-on</h2>
  <p align="center">Learned about server and service management, principles of hosting a service or a server on a Linux Machine and website setup by hosting a  sample website(https://www.tooplate.com/view/2137-barista-cafe) on the Apache Web Server on the local machine.
 </p>
-
+<p align="center">Implement IaaC to automate the deployment of services and website on the Apache Web Server in CentOS using vagrant by configuring the vagrant configuration file.</p>
+<p align="center">Built a custom docker image through docker client which was used to run an nginx container to host a static site deployed automatically on the container through dockerfile.  Pushed the docker image to the dockerhub as well. To pull the image enter the following command.
+- `docker pull docker782/staticapp:staticapp`
+</p>
 
  To complement these I've been practicing<img align="center" src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" height="30" width="40" /> and <img align="center" src="https://www.svgrepo.com/show/354004/linux-tux.svg" alt="Linux" height="30" width="40" /> Linux System Administration.
  - 🤔 I’m looking for help in mastering DevOps tools for IT OPs automation.
