@@ -52,7 +52,6 @@
   <a href="https://www.javascript.com/" target="blank"> <img align="center" src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="javascript" height="30" width="40" /></a>
   <a href="https://getbootstrap.com/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" alt="Bootstrap" height="30" width="40" /></a>
   <a href="https://www.mysql.com/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" height="30" width="40" /></a>
-  <a href="https://laravel.com/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303379/laravel-logo.svg" alt="laravel" height="30" width="40" /></a>
   <a href="https://www.djangoproject.com/" target="blank"><img align="center" src="https://www.svgrepo.com/show/373554/django.svg" alt="django" height="30" width="40" /></a>
  </p>
  
