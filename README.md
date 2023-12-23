@@ -23,11 +23,15 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/link-to-rupak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="link-to-rupak" height="30" width="40" /></a>
-<a href="https://medium.com/@rupakbhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rupakbhandari" height="30" width="40" /></a>
-<a href="https://discord.gg/J2mmdTG6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="J2mmdTG6" height="30" width="40" /></a>
-<a href="https://invite.duolingo.com/BDHTZTB5CWWKTOZGIUARIL4UPE" target="blank"><img align="center" src="https://d35aaqx5ub95lt.cloudfront.net/images/owls/abc1b46bd1381853d2a2f7e46d7ed1f8.svg" alt="languefrancais" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/link-to-rupak/" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="link-to-rupak" height="30" width="40" /></a>
 <a href="https://twitter.com/RupakTweetsHere" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="RupakTweetsHere" height="30" width="40" /></a>
+<a href="https://medium.com/@rupakbhandari" target="blank"><img align="center" src="https://www.svgrepo.com/show/521749/medium.svg" alt="@rupakbhandari" height="30" width="40" /></a>
+<a href="https://discord.gg/J2mmdTG6" target="blank"><img align="center" src="https://www.svgrepo.com/show/331368/discord-v2.svg" alt="J2mmdTG6" height="30" width="40" /></a>
+<a href="https://invite.duolingo.com/BDHTZTB5CWWKTOZGIUARIL4UPE" target="blank"><img align="center" src="https://d35aaqx5ub95lt.cloudfront.net/images/owls/abc1b46bd1381853d2a2f7e46d7ed1f8.svg" alt="languefrancais" height="30" width="40" /></a>
+<a href="https://fb.com/mahurupak" target="blank"><img align="center" src="https://www.svgrepo.com/show/475647/facebook-color.svg" alt="mahurupak" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/Specialist_Box6165" target="blank"><img align="center" src="https://www.svgrepo.com/show/271111/reddit.svg" alt="Reddit_Profile" height="30" width="40" /></a>
+<a href="https://www.writingmehere.blogspot.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/475637/blogger-color.svg" alt="Blogger_Profile" height="30" width="40" /></a>
+<a href="https://www.goodreads.com/user/show/120787519-rupak-bhandari" target="blank"><img align="center" src="https://www.svgrepo.com/show/349384/goodreads.svg" alt="Goodreads_Profile" height="30" width="40" /></a>
 </p>
 
 
