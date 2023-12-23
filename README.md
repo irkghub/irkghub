@@ -8,7 +8,7 @@
  - 1) <a href ="https://rupakbhandari.com.np/">Github pages</a>
 
  Also, you can scan the QR to browse the website:-
-  <img src="frame.png" height="200px" width="200px" align-contents="left"/>
+  <img src="frame.png" height="200px" width="200px" align="left"/>
   
   
   And created
