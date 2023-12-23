@@ -2,7 +2,7 @@
 
 <h2>A little bit about myself</h2>
 
- - ⚡I'm an <a href="https://www.credly.com/badges/e464173e-653d-4ab1-a62d-7d788874a5c1/public_url"> <img align="center" src="https://www.svgrepo.com/show/353443/aws.svg" alt="aws" height="30" width="40" /> <img align="center" src="https://miro.medium.com/v2/resize:fit:416/format:webp/1*XmubhoPbo8SiULQfzX7h2A.png" alt="aws-ccp" height="30" width="40" /></a>
+ - ⚡I'm an <a href="https://www.credly.com/badges/e464173e-653d-4ab1-a62d-7d788874a5c1/public_url"> <img align="center" src="https://www.svgrepo.com/show/353443/aws.svg" alt="aws" height="30" width="40" /> certified  <img align="center" src="https://miro.medium.com/v2/resize:fit:416/format:webp/1*XmubhoPbo8SiULQfzX7h2A.png" alt="aws-ccp" height="90" width="80" /></a>
  - 🔭 I’ve created a snake game program in python.
  - 🌱 I 've hosted my demo porfolio site through
   1) <a href ="https://rupakbhandari.com.np/">Github pages</a>
