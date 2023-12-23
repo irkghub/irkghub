@@ -5,7 +5,7 @@
  - ⚡I'm an <a href="https://www.credly.com/badges/e464173e-653d-4ab1-a62d-7d788874a5c1/public_url"> <img align="center" src="https://miro.medium.com/v2/resize:fit:416/format:webp/1*XmubhoPbo8SiULQfzX7h2A.png" alt="aws-ccp" height="90" width="80" /></a>
  - 🔭 I’ve created a snake game program in <img align="center" src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" height="30" width="40" />.
  - 🌱 I 've hosted my demo porfolio site through
-  1) <a href ="https://rupakbhandari.com.np/"><img align="center" src="https://www.svgrepo.com/show/439171/github.svg" alt="github" height="90" width="80" /></a>
+  1) <a href ="https://rupakbhandari.com.np/"><img align="center" src="https://www.svgrepo.com/show/439171/github.svg" alt="github" height="30" width="40" /></a>
 
  Also, you can scan the QR to browse the website:-
   <img src="frame.png" height="200px" width="200px" align="left"/>
