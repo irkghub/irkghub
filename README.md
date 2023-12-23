@@ -20,6 +20,16 @@
  - 😄 Pronouns: He
  - ⚡ Fun fact: Trying to learn French <a href="https://invite.duolingo.com/BDHTZTB5CWWKTOZGIUARIL4UPE" target="blank"><img align="center" src="https://www.svgrepo.com/show/405485/flag-for-flag-france.svg" alt="Duolingo_Profile" height="30" width="40" /></a>.
 
+ <h2 align="center">Technology Stack</h2>
+ <p align="center">
+ <a href="https://www.w3schools.com/html/" target="blank"><img align="center" src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML5" height="30" width="40" /></a>
+ <a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="https://www.svgrepo.com/show/373535/css.svg" alt="CSS3" height="30" width="40" /></a>
+<a href="https://www.javascript.com/" target="blank"> <img align="center" src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="javascript" height="30" width="40" /></a>
+ <a href="https://getbootstrap.com/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" alt="Bootstrap" height="30" width="40" /></a>
+ <a href="https://www.mysql.com/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" height="30" width="40" /></a>
+ <a href="https://laravel.com/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303379/laravel-logo.svg" alt="laravel" height="30" width="40" /></a>
+ <a href="https://www.djangoproject.com/" target="blank"><img align="center" src="https://www.svgrepo.com/show/373554/django.svg" alt="django" height="30" width="40" /></a>
+ </p>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/link-to-rupak/" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="link-to-rupak" height="30" width="40" /></a>
