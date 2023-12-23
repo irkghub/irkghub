@@ -2,7 +2,7 @@
 
 <h2>A little bit about myself</h2>
 
- - ⚡I'm a <a href="https://www.credly.com/badges/e464173e-653d-4ab1-a62d-7d788874a5c1/public_url">AWS Certified Cloud  Practitioner</a>
+ - ⚡I'm a <a href="https://www.credly.com/badges/e464173e-653d-4ab1-a62d-7d788874a5c1/public_url"> <img align="center" src="https://www.svgrepo.com/show/353925/javascript.svg" alt="aws" height="30" width="40" /> Certified Cloud  Practitioner</a>
  - 🔭 I’ve created a snake game program in python.
  - 🌱 I 've hosted my demo porfolio site through
   1) <a href ="https://rupakbhandari.com.np/">Github pages</a>
