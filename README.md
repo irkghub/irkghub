@@ -17,7 +17,7 @@
  - 🌱 I’m currently studying the DevOps culture while learning and implementing DevOps tools <img align="center" src="https://www.svgrepo.com/show/354506/vagrant.svg" alt="vagrant" height="60" width="40" /> <img align="center" src="https://www.svgrepo.com/show/448221/docker.svg" alt="Docker" height="30" width="40" /> to achieve automation in IT Ops. 
  <h2 align="center">Things I tried hands-on</h2>
   <ol>
-    </li>
+    <li>
       <p align="center">Learned about server and service management, principles of hosting a service or a server on a Linux Machine and website setup by hosting a  sample website(https://www.tooplate.com/view/2137-barista-cafe) on the Apache Web Server on the local machine.
       </p>
     </li>
