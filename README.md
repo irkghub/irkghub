@@ -1,7 +1,7 @@
-# Hi there 👋 
+<h1 align="center"> Hi there 👋 </h1>
 
 <h2>A little bit about myself</h2>
-
+<p align="center">
  - ⚡I'm a <a href="https://www.credly.com/badges/e464173e-653d-4ab1-a62d-7d788874a5c1/public_url">AWS Certified Cloud  Practitioner</a>
  - 🔭 I’ve created a snake game program in python.
  - 🌱 I 've hosted my demo porfolio site through:--
@@ -20,7 +20,7 @@
 
  - 😄 Pronouns: He
  - ⚡ Fun fact: Trying to learn French.
-
+</p>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/link-to-rupak/" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="link-to-rupak" height="30" width="40" /></a>
