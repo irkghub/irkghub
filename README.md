@@ -19,7 +19,7 @@
  - 🤔 I’m looking for help in python and bash shell scripting.
 
  - 😄 Pronouns: He
- - ⚡ Fun fact: Trying to learn French.
+ - ⚡ Fun fact: Trying to learn French <a href="https://invite.duolingo.com/BDHTZTB5CWWKTOZGIUARIL4UPE" target="blank"><img align="center" src="https://www.svgrepo.com/show/405485/flag-for-flag-france.svg" alt="Duolingo_Profile" height="30" width="40" />.</a>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
