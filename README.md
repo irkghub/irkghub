@@ -16,7 +16,7 @@
   1) <a href ="https://irkghub.github.io/BackgroundGenerator/">Dynamic Background Generator</a> and 
   2) <a href ="https://irkghub.github.io/thingsToDo">TO DO App</a> applying <img align="center" src="https://www.svgrepo.com/show/353925/javascript.svg" alt="Duolingo_Profile" height="30" width="40" />.
  - 🌱 I’m currently studying the DevOps culture while learning and implementing DevOps tools <img align="center" src="https://www.svgrepo.com/show/354506/vagrant.svg" alt="Duolingo_Profile" height="30" width="40" /> <img align="center" src="https://www.svgrepo.com/show/448221/docker.svg" alt="Duolingo_Profile" height="30" width="40" /> to achieve automation in IT Ops. To complement these I've been practicing<img align="center" src="https://www.svgrepo.com/show/452091/python.svg" alt="Duolingo_Profile" height="30" width="40" />Python and <img align="center" src="https://www.svgrepo.com/show/354004/linux-tux.svg" alt="Duolingo_Profile" height="30" width="40" />  Linux for Linux System Administration.
- - 🤔 I’m looking for help in automatiing and mastering DevOps tools.
+ - 🤔 I’m looking for help in mastering DevOps tools for IT OPs automation.
 
  - 😄 Pronouns: He
  - ⚡ Fun fact: Trying to learn French <a href="https://invite.duolingo.com/BDHTZTB5CWWKTOZGIUARIL4UPE" target="blank"><img align="center" src="https://www.svgrepo.com/show/405485/flag-for-flag-france.svg" alt="Duolingo_Profile" height="30" width="40" /></a>.
