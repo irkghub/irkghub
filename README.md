@@ -1,5 +1,7 @@
 # Hi there 👋 
 
+<h2>A little bit about myself</h2>
+
  - ⚡I'm a <a href="https://www.credly.com/badges/e464173e-653d-4ab1-a62d-7d788874a5c1/public_url">AWS Certified Cloud  Practitioner</a>
  - 🔭 I’ve created a snake game program in python.
  - 🌱 I 've hosted my demo porfolio site through:--
@@ -19,5 +21,12 @@
  - 😄 Pronouns: He
  - ⚡ Fun fact: Trying to learn French.
 
-# Find me at:
- [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/link-to-rupak/) [![Twitter](https://img.icons8.com/ios-filled/36/x.png)](https://twitter.com/RupakTweetsHere) [![Medium](https://img.icons8.com/sf-black-filled/60/medium-logo.png)](https://medium.com/@rupakbhandari)
+<h2 align="center">Connect with me:</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/link-to-rupak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="link-to-rupak" height="30" width="40" /></a>
+<a href="https://medium.com/@rupakbhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rupakbhandari" height="30" width="40" /></a>
+<a href="https://discord.gg/J2mmdTG6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="J2mmdTG6" height="30" width="40" /></a>
+<a href="https://invite.duolingo.com/BDHTZTB5CWWKTOZGIUARIL4UPE" target="blank"><img align="center" src="https://d35aaqx5ub95lt.cloudfront.net/images/owls/abc1b46bd1381853d2a2f7e46d7ed1f8.svg" alt="J2mmdTG6" height="30" width="40" /></a>
+</p>
+
+
