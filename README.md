@@ -24,7 +24,7 @@
  <p align="center">
  <a href="https://www.virtualbox.org/" target="blank"><img align="center" src="https://www.virtualbox.org/graphics/vbox_logo2_gradient.png" alt="virtualbox" height="40" width="40" /></a>
  <a href="https://www.vagrantup.com/" target="blank"><img align="center" src="https://www.svgrepo.com/show/354506/vagrant.svg" alt="vagrant" height="60" width="40" /></a>
- <a href="https://www.python.org/" target="blank"><img align="center" src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" height="30" width="40" />" alt="python" height="30" width="40" /></a>
+ <a href="https://www.python.org/" target="blank"><img align="center" src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" height="30" width="40" /></a>
  <a href="https://www.w3schools.com/html/" target="blank"><img align="center" src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML5" height="30" width="40" /></a>
  <a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="https://www.svgrepo.com/show/373535/css.svg" alt="CSS3" height="30" width="40" /></a>
 <a href="https://www.javascript.com/" target="blank"> <img align="center" src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="javascript" height="30" width="40" /></a>
