@@ -14,12 +14,12 @@
   And created
   
   1) <a href ="https://irkghub.github.io/BackgroundGenerator/">Dynamic Background Generator</a> and 
-  2) <a href ="https://irkghub.github.io/thingsToDo">TO DO App</a> applying Javascript.
- - 🌱 I’m currently learning DevOps,Python and Linux for Linux System Administration.
- - 🤔 I’m looking for help in python and bash shell scripting.
+  2) <a href ="https://irkghub.github.io/thingsToDo">TO DO App</a> applying <img align="center" src="https://www.svgrepo.com/show/353925/javascript.svg" alt="Duolingo_Profile" height="30" width="40" />.
+ - 🌱 I’m currently learning DevOps,<img align="center" src="https://www.svgrepo.com/show/452091/python.svg" alt="Duolingo_Profile" height="30" width="40" />Python and <img align="center" src="https://www.svgrepo.com/show/354004/linux-tux.svg" alt="Duolingo_Profile" height="30" width="40" />  Linux for Linux System Administration.
+ - 🤔 I’m looking for help in automatiing and mastering DevOps tools.
 
  - 😄 Pronouns: He
- - ⚡ Fun fact: Trying to learn French <a href="https://invite.duolingo.com/BDHTZTB5CWWKTOZGIUARIL4UPE" target="blank"><img align="center" src="https://www.svgrepo.com/show/405485/flag-for-flag-france.svg" alt="Duolingo_Profile" height="30" width="40" />.</a>
+ - ⚡ Fun fact: Trying to learn French <a href="https://invite.duolingo.com/BDHTZTB5CWWKTOZGIUARIL4UPE" target="blank"><img align="center" src="https://www.svgrepo.com/show/405485/flag-for-flag-france.svg" alt="Duolingo_Profile" height="30" width="40" /></a>.
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
