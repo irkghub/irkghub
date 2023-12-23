@@ -15,7 +15,7 @@
   
   1) <a href ="https://irkghub.github.io/BackgroundGenerator/">Dynamic Background Generator</a> and 
   2) <a href ="https://irkghub.github.io/thingsToDo">TO DO App</a> applying <img align="center" src="https://www.svgrepo.com/show/353925/javascript.svg" alt="Duolingo_Profile" height="30" width="40" />.
- - 🌱 I’m currently learning DevOps,<img align="center" src="https://www.svgrepo.com/show/452091/python.svg" alt="Duolingo_Profile" height="30" width="40" />Python and <img align="center" src="https://www.svgrepo.com/show/354004/linux-tux.svg" alt="Duolingo_Profile" height="30" width="40" />  Linux for Linux System Administration.
+ - 🌱 I’m currently learning DevOps culture and its tools,<img align="center" src="https://www.svgrepo.com/show/452091/python.svg" alt="Duolingo_Profile" height="30" width="40" />Python and <img align="center" src="https://www.svgrepo.com/show/354004/linux-tux.svg" alt="Duolingo_Profile" height="30" width="40" />  Linux for Linux System Administration.
  - 🤔 I’m looking for help in automatiing and mastering DevOps tools.
 
  - 😄 Pronouns: He
