@@ -22,7 +22,7 @@
       </p>
     </li>
     <li>
-      <p align="center">Implement IaaC to automate the deployment of services and website on the Apache Web Server in CentOS using vagrant by configuring the vagrant configuration file.
+      <p align="center">Implement IaaC to automate the deployment of services and website on the Apache Web Server in CentOS using vagrant by configuring the vagrant configuration file. Get the vagrant image from here <b><i>https://app.vagrantup.com/rupak_bhandari/boxes/rupakcentos7</i></b>
       </p>
     </li>
     <li>
@@ -52,7 +52,6 @@
   <a href="https://www.javascript.com/" target="blank"> <img align="center" src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="javascript" height="30" width="40" /></a>
   <a href="https://getbootstrap.com/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" alt="Bootstrap" height="30" width="40" /></a>
   <a href="https://www.mysql.com/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" height="30" width="40" /></a>
-  <a href="https://www.djangoproject.com/" target="blank"><img align="center" src="https://www.svgrepo.com/show/373554/django.svg" alt="django" height="30" width="40" /></a>
  </p>
  
 <h2 align="center">Connect with me:</h2>
