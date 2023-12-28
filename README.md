@@ -27,7 +27,8 @@
     </li>
     <li>
       <p align="center">Built a custom docker image through docker client which was used to run an nginx container to host a static site deployed automatically on the container through dockerfile.  Pushed the docker image to the dockerhub as well. To pull the image enter the command.
-      <b><i>docker pull docker782/staticapp:staticapp</i></b>
+      <b><i>docker pull docker782/staticapp:staticapp</i></b> 
+      Find it here:- <b><i>https://hub.docker.com/r/docker782/staticapp</i></b>
       </p>
     </li>
   </ol>
