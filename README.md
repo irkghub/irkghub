@@ -18,7 +18,7 @@
  <h2 align="center">Things I tried hands-on</h2>
   <ol>
     <li>
-      <p align="center">Bootstrap script to fetch install dependencies, fetch a sample artifact and deploy it onto Amazon EC2. Know more about it <a href="https://medium.com/@rupakbhandari/deploying-a-website-on-an-amazon-ec2-instance-on-the-fly-17e7cd753d47" target="blank">here</a>.
+      <p align="center">Bootstrap scripts to install dependencies, fetch an artifact and deploy it onto Amazon EC2. Know more about it <a href="https://medium.com/@rupakbhandari/deploying-a-website-on-an-amazon-ec2-instance-on-the-fly-17e7cd753d47" target="blank">here</a>.
       </p>
     </li>
     <li>
