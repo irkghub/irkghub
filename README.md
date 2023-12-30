@@ -64,6 +64,7 @@
     <a href="https://invite.duolingo.com/BDHTZTB5CWWKTOZGIUARIL4UPE" target="blank"><img align="center" src="https://d35aaqx5ub95lt.cloudfront.net/images/owls/abc1b46bd1381853d2a2f7e46d7ed1f8.svg" alt="languefrancais" height="30" width="40" /></a>
     <a href="https://fb.com/mahurupak" target="blank"><img align="center" src="https://www.svgrepo.com/show/475647/facebook-color.svg" alt="mahurupak" height="30" width="40" /></a>
     <a href="https://www.reddit.com/user/Specialist_Box6165" target="blank"><img align="center" src="https://www.svgrepo.com/show/271111/reddit.svg" alt="Reddit_Profile" height="30" width="40" /></a>
+    <a href="https://www.quora.com/profile/Rupak-Bhandari-23" target="blank"><img align="center" src="https://www.svgrepo.com/show/121654/quora.svg" alt="Quora_Profile" height="30" width="40" /></a>
     <a href="https://www.writingmehere.blogspot.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/475637/blogger-color.svg" alt="Blogger_Profile" height="30" width="40" /></a>
     <a href="https://www.goodreads.com/user/show/120787519-rupak-bhandari" target="blank"><img align="center" src="https://www.svgrepo.com/show/349384/goodreads.svg" alt="Goodreads_Profile" height="30" width="40" /></a>
   </p>
