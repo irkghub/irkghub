@@ -18,6 +18,10 @@
  <h2 align="center">Things I tried hands-on</h2>
   <ol>
     <li>
+      <p align="center">Bootstrap script to fetch install dependencies, fetch a sample artifact and deploy it onto Amazon EC2. Know more about it <a href="https://medium.com/@rupakbhandari/deploying-a-website-on-an-amazon-ec2-instance-on-the-fly-17e7cd753d47" target="blank">here</a>.
+      </p>
+    </li>
+    <li>
       <p align="center">Learned about server and service management, principles of hosting a service or a server on a Linux Machine and website setup by hosting a  sample website(https://www.tooplate.com/view/2137-barista-cafe) on the Apache Web Server on the local machine.
       </p>
     </li>
