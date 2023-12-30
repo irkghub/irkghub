@@ -14,7 +14,7 @@
   
   1) <a href ="https://irkghub.github.io/BackgroundGenerator/">Dynamic Background Generator</a> and 
   2) <a href ="https://irkghub.github.io/thingsToDo">TO DO App</a> applying <img align="center" src="https://www.svgrepo.com/show/353925/javascript.svg" alt="Javascript" height="30" width="40" />.
- - 🌱 I’m currently immersing myself to understand the DevOps culture while learning to tinker around with DevOps tools <img align="center" src="https://www.svgrepo.com/show/354506/vagrant.svg" alt="vagrant" height="60" width="40" /> <img align="center" src="https://www.svgrepo.com/show/448221/docker.svg" alt="Docker" height="30" width="40" /> to achieve automation in IT Ops. 
+ - 🌱 I’m currently immersing myself to understand the DevOps culture while learning to tinker around with DevOps tools like <img align="center" src="https://www.svgrepo.com/show/354506/vagrant.svg" alt="vagrant" height="60" width="40" /> <img align="center" src="https://www.svgrepo.com/show/448221/docker.svg" alt="Docker" height="30" width="40" /> to achieve automation in IT Ops. 
  <h2 align="center">Things I tried hands-on</h2>
   <ol>
     <li>
